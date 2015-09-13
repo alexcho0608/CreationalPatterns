@@ -1,0 +1,5 @@
+c:\users\alex\documents\visual studio 2013\Projects\DesignPatternsExample\MethodFactory\bin\Debug\MethodFactory.exe.config
+c:\users\alex\documents\visual studio 2013\Projects\DesignPatternsExample\MethodFactory\bin\Debug\MethodFactory.exe
+c:\users\alex\documents\visual studio 2013\Projects\DesignPatternsExample\MethodFactory\bin\Debug\MethodFactory.pdb
+c:\users\alex\documents\visual studio 2013\Projects\DesignPatternsExample\MethodFactory\obj\Debug\MethodFactory.exe
+c:\users\alex\documents\visual studio 2013\Projects\DesignPatternsExample\MethodFactory\obj\Debug\MethodFactory.pdb

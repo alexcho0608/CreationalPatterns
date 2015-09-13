@@ -1,0 +1,11 @@
+c:\users\alex\documents\visual studio 2013\Projects\DesignPatternsExample\AbstractFactory\bin\Debug\AbstractFactory.exe.config
+c:\users\alex\documents\visual studio 2013\Projects\DesignPatternsExample\AbstractFactory\bin\Debug\AbstractFactory.exe
+c:\users\alex\documents\visual studio 2013\Projects\DesignPatternsExample\AbstractFactory\bin\Debug\AbstractFactory.pdb
+c:\users\alex\documents\visual studio 2013\Projects\DesignPatternsExample\AbstractFactory\obj\Debug\AbstractFactory.exe
+c:\users\alex\documents\visual studio 2013\Projects\DesignPatternsExample\AbstractFactory\obj\Debug\AbstractFactory.pdb
+C:\Users\Alex\Desktop\New folder\CreationalPatternsExample\AbstractFactory\bin\Debug\AbstractFactory.exe.config
+C:\Users\Alex\Desktop\New folder\CreationalPatternsExample\AbstractFactory\obj\Debug\AbstractFactory.exe
+C:\Users\Alex\Desktop\New folder\CreationalPatternsExample\AbstractFactory\obj\Debug\AbstractFactory.pdb
+C:\Users\Alex\Desktop\Domashno\CreationalPatternsExample\AbstractFactory\bin\Debug\AbstractFactory.exe.config
+C:\Users\Alex\Desktop\Domashno\CreationalPatternsExample\AbstractFactory\obj\Debug\AbstractFactory.exe
+C:\Users\Alex\Desktop\Domashno\CreationalPatternsExample\AbstractFactory\obj\Debug\AbstractFactory.pdb

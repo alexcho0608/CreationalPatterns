@@ -1,0 +1,5 @@
+c:\users\alex\documents\visual studio 2013\Projects\DesignPatternsExample\BuilderFactoryExample\bin\Debug\BuilderFactoryExample.exe.config
+c:\users\alex\documents\visual studio 2013\Projects\DesignPatternsExample\BuilderFactoryExample\bin\Debug\BuilderFactoryExample.exe
+c:\users\alex\documents\visual studio 2013\Projects\DesignPatternsExample\BuilderFactoryExample\bin\Debug\BuilderFactoryExample.pdb
+c:\users\alex\documents\visual studio 2013\Projects\DesignPatternsExample\BuilderFactoryExample\obj\Debug\BuilderFactoryExample.exe
+c:\users\alex\documents\visual studio 2013\Projects\DesignPatternsExample\BuilderFactoryExample\obj\Debug\BuilderFactoryExample.pdb
